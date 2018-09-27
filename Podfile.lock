@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (4.7.3)
+  - Sketch (1.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Sketch
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Sketch
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  Sketch: 05641e23f1615f0bdb33f1e89d694ee237e2d5b8
+
+PODFILE CHECKSUM: bbbc1059784798075e309499c2179759e7d47bca
+
+COCOAPODS: 1.5.3
