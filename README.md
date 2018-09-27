@@ -12,6 +12,7 @@ swiftを用いたお絵かきアプリ
 ## Development environment
  - 開発環境：xcode
  - 言語：swift4
+ - 使用ライブラリ：[Sketch](https://github.com/daihase/Sketch)
 
 
 ## Author
